@@ -1,5 +1,5 @@
 # Additional-Practice-and-Learning-Resources
-### A collection of resources for additional practice and knowledge.
+### A collection of resources for introductory/intermediate knowledge and additional practice.
 
 Keith Galli YouTube channel: https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
 
@@ -8,6 +8,8 @@ Corey Schafer YouTube channel: https://www.youtube.com/watch?v=UmljXZIypDc&list=
 Statistics: https://www.youtube.com/watch?v=Vfo5le26IhY
 
 Database Design: https://www.youtube.com/watch?v=ztHopE5Wnpc
+
+What is a NoSQL Database?: https://www.youtube.com/watch?v=uD3p_rZPBUQ
 
 A/B Testing on Udacity: https://www.udacity.com/course/ab-testing--ud257
 
@@ -18,3 +20,5 @@ SQL in 60 minutes: https://www.youtube.com/watch?v=p3qvj9hO_Bo
 SQL Query Interview Questions: https://www.youtube.com/watch?v=uAWWhEA57bE
 
 Intro to Bash Terminal: https://www.youtube.com/watch?v=oxuRxtrO2Ag
+
+Getting started with APIs: https://www.youtube.com/watch?v=GZvSYJDk-us
