@@ -1,5 +1,5 @@
 # Additional-Practice-and-Learning-Resources
-A collection of resources for additional practice and knowledge.
+### A collection of resources for additional practice and knowledge.
 
 Keith Galli YouTube channel: https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
 
@@ -16,3 +16,5 @@ More Python pandas Practice: https://www.youtube.com/watch?v=P_t8LO-KgWM&t=25s
 SQL in 60 minutes: https://www.youtube.com/watch?v=p3qvj9hO_Bo
 
 SQL Query Interview Questions: https://www.youtube.com/watch?v=uAWWhEA57bE
+
+Intro to Bash Terminal: https://www.youtube.com/watch?v=oxuRxtrO2Ag
