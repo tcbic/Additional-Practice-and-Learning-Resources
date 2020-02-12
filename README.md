@@ -13,6 +13,6 @@ A/B Testing on Udacity: https://www.udacity.com/course/ab-testing--ud257
 
 More Python pandas Practice: https://www.youtube.com/watch?v=P_t8LO-KgWM&t=25s
 
-SQL-
 SQL in 60 minutes: https://www.youtube.com/watch?v=p3qvj9hO_Bo
-Query Interview Questions: https://www.youtube.com/watch?v=uAWWhEA57bE
+
+SQL Query Interview Questions: https://www.youtube.com/watch?v=uAWWhEA57bE
