@@ -1,5 +1,7 @@
-# Additional-Practice-and-Learning-Resources
+# Practice-and-Learning-Resources
 ### A collection of resources for introductory/intermediate knowledge and additional practice.
+
+Harvard CS50 YouTube channel: https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
 
 #### Programming Languages:
 ##### Python:
