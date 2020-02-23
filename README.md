@@ -10,6 +10,8 @@ Keith Galli YouTube channel: https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcP
 More Python pandas Practice: https://www.youtube.com/watch?v=P_t8LO-KgWM&t=25s
 
 ##### SQL:
+Harvard CS50 SQL: https://www.youtube.com/watch?v=u5pDdEKnbKA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
+
 SQL in 60 minutes: https://www.youtube.com/watch?v=p3qvj9hO_Bo
 
 SQL Query Interview Questions: https://www.youtube.com/watch?v=uAWWhEA57bE
