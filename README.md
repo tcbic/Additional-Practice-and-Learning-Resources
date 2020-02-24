@@ -1,5 +1,5 @@
 # Practice-and-Learning-Resources
-### A collection of resources for introductory/intermediate knowledge and additional practice.
+### A collection of resources to enhance knowledge and for additional practice.
 
 Harvard CS50 YouTube channel: https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
 
@@ -15,6 +15,12 @@ More Python pandas Practice: https://www.youtube.com/watch?v=P_t8LO-KgWM&t=25s
 Harvard CS50 SQL: https://www.youtube.com/watch?v=u5pDdEKnbKA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
 
 SQL in 60 minutes: https://www.youtube.com/watch?v=p3qvj9hO_Bo
+
+Practice Problem Solving with SQL:
+
+Strata Scratch: https://www.stratascratch.com/
+
+HackerRank: https://www.hackerrank.com/domains/sql
 
 SQL Query Interview Questions: https://www.youtube.com/watch?v=uAWWhEA57bE
 
