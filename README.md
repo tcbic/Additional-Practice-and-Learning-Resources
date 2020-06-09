@@ -27,11 +27,11 @@ SQL Query Interview Questions: https://www.youtube.com/watch?v=uAWWhEA57bE
 #### Databases:
 Database Design: https://www.youtube.com/watch?v=ztHopE5Wnpc
 
-MySQL- https://www.youtube.com/watch?v=LKZYoeRfmh4
+MySQL: https://www.youtube.com/watch?v=LKZYoeRfmh4
 
-PostgreSQL- https://www.youtube.com/watch?v=qw--VYLpxG4
+PostgreSQL: https://www.youtube.com/watch?v=qw--VYLpxG4
 
-What is a NoSQL Database?- https://www.youtube.com/watch?v=uD3p_rZPBUQ
+What is a NoSQL Database?: https://www.youtube.com/watch?v=uD3p_rZPBUQ
 
 #### Statistics:
 https://www.youtube.com/watch?v=Vfo5le26IhY
@@ -40,7 +40,11 @@ A/B Testing on Udacity: https://www.udacity.com/course/ab-testing--ud257
 
 #### Natural Language Processing (NLP):
 
-Alice Zhao- https://www.youtube.com/watch?v=5BVebXXb2o4; https://www.youtube.com/watch?v=xvqsFTUsOmc
+Alice Zhao: https://www.youtube.com/watch?v=5BVebXXb2o4; https://www.youtube.com/watch?v=xvqsFTUsOmc
+
+#### Neural Networks:
+
+Recurrent Neural Networks: https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 
 #### Other:
 Intro to Bash Terminal: https://www.youtube.com/watch?v=oxuRxtrO2Ag
