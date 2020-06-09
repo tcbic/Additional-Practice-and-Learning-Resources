@@ -41,6 +41,7 @@ A/B Testing on Udacity: https://www.udacity.com/course/ab-testing--ud257
 #### Natural Language Processing (NLP):
 
 Alice Zhao: https://www.youtube.com/watch?v=5BVebXXb2o4; https://www.youtube.com/watch?v=xvqsFTUsOmc
+Getting Started with NLP: https://codingwithalex.com/natural-language-processingnlp-the-basics/
 
 #### Neural Networks:
 
