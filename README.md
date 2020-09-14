@@ -38,6 +38,10 @@ https://www.youtube.com/watch?v=Vfo5le26IhY
 
 A/B Testing on Udacity: https://www.udacity.com/course/ab-testing--ud257
 
+#### Tableau:
+
+Tableau Projects for Practice: https://www.youtube.com/watch?v=If4YqaZtZ3c
+
 #### Natural Language Processing (NLP):
 
 Alice Zhao: https://www.youtube.com/watch?v=5BVebXXb2o4; https://www.youtube.com/watch?v=xvqsFTUsOmc
